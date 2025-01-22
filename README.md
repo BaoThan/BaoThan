@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Hey, it's Bảo!!! 👋
+## Hi, it's Bảo!!! 👋
 - 👨‍💻 I love building cool things with code!
 - 🎓 I'm currently a **Software Developer Intern** at **[GTRI](https://www.gtri.gatech.edu/)** (Georgia Tech Research Institute)!
 - 💡 Always curious about **tech**, **backend systems**, and **RESTful APIs** 🧠
